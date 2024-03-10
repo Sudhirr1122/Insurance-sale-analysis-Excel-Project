@@ -1,0 +1,11 @@
+,
+,Questions:
+,1. Using SUMIFS formula provide summary of total premium done by each agent
+,"2. Using Vlookup obtaing the details of leads shared - Required Details LeadId,Agent Code,Product,Insurer Name,Status,Premium Amount "
+,3. Using Countifs formulat provide summary of the details requested in sheet no 3.
+,"4. For each unique Policy, provide Created On        LeadId        Region Code        Reference Number"
+,5. Summarise the raw data at RM level and share a view of the summary (Summary required against the RM code total bookings and premium)
+,6. Provide Visual Representation of the raw data and also share your insights basis your understanding of the data
+,
+,*Please provide solutions in the sheets named with the respective question number.
+,*Duration of test 45 mins.
