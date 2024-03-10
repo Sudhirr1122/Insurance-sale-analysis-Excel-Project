@@ -20,7 +20,7 @@ The dataset contains the following columns:
 - **Premium Amount**: Amount of premium for the insurance policy
 - **Sum Insured**: Total sum insured for the policy
 
-##for this check  Insurance Sale CS - 2.xlsx
+## for this check  Insurance Sale CS - 2.xlsx
 
 ##Questions i worked on
 
